@@ -2,10 +2,10 @@
 A two-player shooter game which promotes collaborative playing.
 
 # Instructions
-Players are tethered together and cannot move too far apart from each other in the playing field. 
-Shoot the enemies to kill, and collect the mana drops to gain 5 Energy.
-Avoid the enemy and enemy bullets.
-The shield protects the player against all attacks, but can only be activated by one player at a time, and drains 1 Energy/second.
+1. Players are tethered together and cannot move too far apart from each other in the playing field. 
+1. Shoot the enemies to kill, and collect the mana drops to gain 5 Energy.
+1. Avoid the enemy and enemy bullets.
+1. The shield protects the player against all attacks, but can only be activated by one player at a time, and drains 1 Energy/second.
 
 # Control Buttons
 ## Player 1
